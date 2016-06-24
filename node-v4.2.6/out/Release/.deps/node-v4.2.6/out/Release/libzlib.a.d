@@ -1,0 +1,1 @@
+cmd_/node-v4.2.6/out/Release/libzlib.a := ln -f "/node-v4.2.6/out/Release/obj.target/deps/zlib/libzlib.a" "/node-v4.2.6/out/Release/libzlib.a" 2>/dev/null || (rm -rf "/node-v4.2.6/out/Release/libzlib.a" && cp -af "/node-v4.2.6/out/Release/obj.target/deps/zlib/libzlib.a" "/node-v4.2.6/out/Release/libzlib.a")

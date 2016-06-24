@@ -1,0 +1,1 @@
+cmd_/node-v4.2.6/out/Release/libv8_base.a := ln -f "/node-v4.2.6/out/Release/obj.target/deps/v8/tools/gyp/libv8_base.a" "/node-v4.2.6/out/Release/libv8_base.a" 2>/dev/null || (rm -rf "/node-v4.2.6/out/Release/libv8_base.a" && cp -af "/node-v4.2.6/out/Release/obj.target/deps/v8/tools/gyp/libv8_base.a" "/node-v4.2.6/out/Release/libv8_base.a")
