@@ -1,0 +1,16 @@
+alpine-baselayout
+alpine-keys
+apk-tools
+binutils-gold
+ca-certificates
+curl
+g++
+gcc
+git
+libc-utils
+libgcc
+libstdc++
+linux-headers
+make
+paxctl
+python
